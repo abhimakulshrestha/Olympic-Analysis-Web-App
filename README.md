@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abhimak Kulshrestha**
+**Abhima Kulshrestha**
 - GitHub: [@abhimakulshrestha](https://github.com/abhimakulshrestha)
 - LinkedIn: [Connect with me](https://linkedin.com/in/abhimakulshrestha)
 
